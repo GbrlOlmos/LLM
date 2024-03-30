@@ -31,9 +31,9 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 Conferencias de algunos papers que he ido encontrando 👌🏼.
 
 | Conferencias de los Papers | Links | Artículos | GitHub | HuggingFace Blog |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |  QLoRA: Efficient Finetuning of Quantized LLMs (Tim Dettmers)  |  https://youtu.be/fQirE9N5q_Y?si=ALeiLxiQpb3sdkbL  |  [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2305.14314)  | https://github.com/artidoro/qlora |  https://huggingface.co/blog/4bit-transformers-bitsandbytes |
-| 8-bit Methods for Efficient Deep Learning with Tim Dettmers | https://youtu.be/jyOqtw4ry2w?si=Bwm3emBeMnzwln0Y |
+| 8-bit Methods for Efficient Deep Learning with Tim Dettmers | https://youtu.be/jyOqtw4ry2w?si=Bwm3emBeMnzwln0Y |  |   |   |
 
 ## Artículos 
 
