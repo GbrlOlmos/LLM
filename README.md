@@ -11,9 +11,37 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 
 * *Curso de pago
 
+## Andrej Karpathy 
+
+| Títulos | Links |
+|:-:|:-:|
+| Let's build GPT: from scratch, in code, spelled out | https://www.youtube.com/watch?v=kCc8FmEb1nY&t=1803s |
+| State of GPT | https://www.youtube.com/watch?v=bZQun8Y4L2A |
+| [1hr Talk] Intro to Large Language Models | https://www.youtube.com/watch?v=zjkBMFhNj_g&t=2101s |
+| Let's build the GPT Tokenizer | https://youtu.be/zduSFxRajkE?si=63aOezV4VH_G5IcU |
+
+## YouTube Channels
+
+| Canales de YouTube | Links |
+|:-:|:-:|
+|    |    |
+
+## Conferencias
+
+Conferencias de algunos papers que he ido encontrando 👌🏼.
+
+| Conferencias de los Papers | Links | Artículos | GitHub | HuggingFace Blog |
+|:-:|:-:|:-:|:-:|
+|  QLoRA: Efficient Finetuning of Quantized LLMs (Tim Dettmers)  |  https://youtu.be/fQirE9N5q_Y?si=ALeiLxiQpb3sdkbL  |  [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2305.14314)  | https://github.com/artidoro/qlora |  https://huggingface.co/blog/4bit-transformers-bitsandbytes |
+| 8-bit Methods for Efficient Deep Learning with Tim Dettmers | https://youtu.be/jyOqtw4ry2w?si=Bwm3emBeMnzwln0Y |
+
 ## Artículos 
 
 | Papers | Link |
 |:-|:-:|
 | Transformer | [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/1706.03762) |
 |  Decoder-Only |   |
+| GPT |   |
+| GPT-2 |  |
+| GPT-3 |  |
+|    |     |
