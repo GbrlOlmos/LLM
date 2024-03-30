@@ -8,6 +8,9 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 | Stanford Lecture - CS324 | https://stanford-cs324.github.io/winter2022/lectures/ |
 |  MIT - TinyML and Efficient Deep Learning Computing |  https://hanlab.mit.edu/courses/2023-fall-65940 |
 |  Coursera - Generative AI with Large Language Models* |  https://www.coursera.org/learn/generative-ai-with-llms |
+|  HuggingFace - A little guide to building Large Language Models in 2024  |  https://youtu.be/2-SPH9hIKT8?si=7wPqBf8t20aln0G7   |
+|                      |            |
+
 
 * *Curso de pago
 
@@ -32,7 +35,7 @@ Conferencias de algunos papers que he ido encontrando 👌🏼.
 
 | Conferencias de los Papers | Links | Artículos | GitHub | HuggingFace Blog |
 |:-:|:-:|:-:|:-:|:-:|
-|  QLoRA: Efficient Finetuning of Quantized LLMs (Tim Dettmers)  |  https://youtu.be/fQirE9N5q_Y?si=ALeiLxiQpb3sdkbL  |  [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2305.14314)  | https://github.com/artidoro/qlora |  https://huggingface.co/blog/4bit-transformers-bitsandbytes |
+|  QLoRA: Efficient Finetuning of Quantized LLMs (Tim Dettmers)  |  https://youtu.be/fQirE9N5q_Y?si=ALeiLxiQpb3sdkbL  |  [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2305.14314)  | https://github.com/artidoro/qlora |  [![hfpaper](https://img.shields.io/badge/🤗HugginngFace-Blog-yellow)](https://huggingface.co/blog/4bit-transformers-bitsandbytes)  |
 | 8-bit Methods for Efficient Deep Learning with Tim Dettmers | https://youtu.be/jyOqtw4ry2w?si=Bwm3emBeMnzwln0Y |  |   |   |
 
 ## Artículos 
