@@ -12,7 +12,7 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 |                      |            |
 
 
-* *Curso de pago
+* `*Curso de pago`
 
 ## Andrej Karpathy 
 
