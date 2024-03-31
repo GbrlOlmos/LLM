@@ -12,7 +12,7 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 |                      |            |
 
 
-* `*Curso de pago`
+* `*Curso de pago` 
 
 ## Andrej Karpathy 
 
@@ -25,9 +25,9 @@ Este repositorio contendrá los recursos que me sirvieron para aprender sobre LL
 
 ## YouTube Channels
 
-| Canales de YouTube | Links |
-|:-:|:-:|
-|    |    |
+| Canales de YouTube | Links | Comentarios |
+|:-:|:-:|-|
+|  code_your_own_AI  | https://www.youtube.com/@code4AI   | Este canal tiene demasiado contenido hablando sobre los LLM, enfoques, técnicas, etc. Recomendado en un 💯📈 |
 
 ## Conferencias de los Artículos
 
@@ -37,6 +37,15 @@ Conferencias de algunos papers que he ido encontrando 👌🏼.
 |:-:|:-:|:-:|:-:|:-:|
 |  QLoRA: Efficient Finetuning of Quantized LLMs (Tim Dettmers)  |  https://youtu.be/fQirE9N5q_Y?si=ALeiLxiQpb3sdkbL  |  [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2305.14314)  | https://github.com/artidoro/qlora |  [![hfpaper](https://img.shields.io/badge/🤗HugginngFace-Blog-yellow)](https://huggingface.co/blog/4bit-transformers-bitsandbytes)  |
 | 8-bit Methods for Efficient Deep Learning with Tim Dettmers | https://youtu.be/jyOqtw4ry2w?si=Bwm3emBeMnzwln0Y |  |   |   |
+
+## Cursos de DeepLearningAI (Short Courses)
+
+Para mi los cursos de la plataforma deeplearningai no son muy buenos, pero los recomiendo debido a que puedes ver los vídeos y ejecutar los códigos. Esto permite de algún modo a darte una idea de cómo funcionan las cosas.
+
+| Cursos | Link |
+|:-|:-:|
+| Finetuning Large Language Models | https://www.deeplearning.ai/short-courses/finetuning-large-language-models/ |
+| Reinforcement Learning from Human Feedback | https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/ |
 
 ## Transformers
 
