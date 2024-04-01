@@ -49,11 +49,12 @@ Para mi los cursos de la plataforma deeplearningai no son muy buenos, pero los r
 
 ## Transformers
 
-A continuación, dejaré links de vídeos acerca del transformer para aprenderlo en detalle 🤯🤯💥💥
+A continuación, dejaré links de vídeos, blogs, etc acerca del transformer para aprenderlo en detalle 🤯🤯💥💥
 
 |  |  |
 |:-:|:-:|
-|    |  |
+| Harvard NLP - The Annotated Transformer (Nuevo usando PyTorch)|  https://nlp.seas.harvard.edu/annotated-transformer/  |
+| Harvard NLP - The Annotated Transformer (Old)   | https://nlp.seas.harvard.edu/2018/04/03/attention.html |
 
 ## Artículos 
 
